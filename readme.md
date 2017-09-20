@@ -15,7 +15,7 @@ Of course all my content here come from that site or Wikipedia. Sometimes these 
 # In the future
 * Resources section
 
-## Contributions
+## Contributions
 If you want to contribute please create an issue or a PR and I'll try to reply soon. The project is just static HTML/CSS/JS so everyone can just download the files and start modifying them.
 
 ## Credits
@@ -27,5 +27,5 @@ I have used:
 * [jQuery](http://jquery.com/)
 * [UIKit](http://getuikit.com/)
 
-##License
+## License
 MIT License
