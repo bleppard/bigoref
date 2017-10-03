@@ -1,4 +1,4 @@
-# Big O Reference: [bigoref.com](http://bigoref.com)
+# Big O Reference: [bleppard.github.io/bigoref](https://bleppard.github.io/bigoref/)
 Big O Reference is a static site that summarizes the complexities of common algorithms and data structures.
 
 ## Motivation
